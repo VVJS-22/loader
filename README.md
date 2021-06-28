@@ -1,1 +1,1 @@
-# [LIVE DEMO](https://github.com/VVJS-22/loader)
+# [LIVE DEMO](https://vvjs-22.github.io/loader/)
